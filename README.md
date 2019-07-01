@@ -19,7 +19,9 @@ Project Organization
     │                         generated with `pip freeze > requirements.txt`
     ├── transform_data.py  <- Transformations used to produce processed data. Will use the file in raw/loan_tape.csv.
     │    
-    └── environment.yml    <- Environment file saved from conda used for this analysis.                             
+    ├── environment.yml    <- Environment file saved from conda used for this analysis.                             
+    │
+    └─  utils              <- Custom utilities developed for reuse during this project.
 
 
 --------
