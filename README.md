@@ -16,7 +16,10 @@ Project Organization
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-                              generated with `pip freeze > requirements.txt`
+    │                         generated with `pip freeze > requirements.txt`
+    ├── transform_data.py  <- Transformations used to produce processed data. Will use the file in raw/loan_tape.csv.
+    │    
+    └── environment.yml    <- Environment file saved from conda used for this analysis.                             
 
 
 --------
