@@ -6,7 +6,7 @@ Predicting Default / No Default Customers
 Project Organization
 ------------
 
-    ├── brigit_data_exploration_and_cleaning.ipynb <- Initial data exploration done on the raw data supplied                             
+    ├── brigit_data_exploration_and_cleaning.ipynb <- Initial data exploration done on the raw data supplied
     │
     └─  model_exploration.ipynb   <- The steps took to develop the model
 --------
